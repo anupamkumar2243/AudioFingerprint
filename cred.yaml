@@ -1,0 +1,5 @@
+mysql_host: 'localhost'
+mysql_user: 'bgmi'
+mysql_password: 'root'
+mysql_db: 'new_poc'
+mysql_port: 3306
